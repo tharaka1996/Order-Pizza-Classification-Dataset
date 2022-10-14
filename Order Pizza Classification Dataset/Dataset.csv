@@ -1,0 +1,83 @@
+﻿text,intentName
+dont want the order anymore,CancelOrder
+dont make my order anymore,CancelOrder
+cancel the order,CancelOrder
+cancel that order,CancelOrder
+i would like to order three hawaiian pizzas without ham but add olives,ModifyOrder
+i would like to order two small chicken pizzas with pepperoni,ModifyOrder
+i would like two cheese pizzas with extra anchovies and a small chicken pizza without ham or pineapple,ModifyOrder
+i would like two cheese pizzas with extra anchovies and a small chicken pizza without ham pineapple and anchovies,ModifyOrder
+i would like two extra large pizzas with ham,ModifyOrder
+pepperoni pizzas without olives but extra sauce,ModifyOrder
+id like to order a large pizza with extra pepperoni extra chicken and extra cheese,ModifyOrder
+let me get two small chicken pizzas without jalapenos and add ham,ModifyOrder
+i want two extra large beef supreme pizzas without pepperoni and olives,ModifyOrder
+looks good to me,Confirmation
+looks right,Confirmation
+pretty much,Confirmation
+right,Confirmation
+confirming,Confirmation
+confirm,Confirmation
+awesome,Confirmation
+hello,Greetings
+i would like a medium pizza with extra mushrooms and light sausage but remove the cheese,ModifyOrder
+i would like a pepperoni pizza with extra cheese and a side of ranch,ModifyOrder
+i would like three pepperoni pizzas hold the sauce,ModifyOrder
+i would like to order a four cheese pizza with extra cheese and a chicken pizza without chicken,ModifyOrder
+i would like to order a ham pizza with double cheese,ModifyOrder
+i would like to order a large pizza with italian sausage ham and extra olives,ModifyOrder
+i want to eat one extra large pepperoni pizzas with extra sausage and olives and a side of garlic bread okay,ModifyOrder
+i want to order a chicken pizza,ModifyOrder
+i would like one large chicken pizza with extra mushroom on half,None
+how is weather today,None
+penguins in the ocean,None
+I rate this product 4 out of 5 stars ,None
+barking dogs are annoying,None
+order a small pizza now,ModifyOrder
+order small pizza now,ModifyOrder
+order a large pepperoni pizza,ModifyOrder
+i want two large pepperoni pizzas on thin crust,ModifyOrder
+i want two small seafood pizzas with extra cheese,ModifyOrder
+order one mandarin pizza thin crust with extra pineapple anchovies onions and without peppers and fries on the side,ModifyOrder
+order one pizza,ModifyOrder
+please order twelve chelsea pizzas but i do not want ham on them,ModifyOrder
+please order two pan crust small pepperoni pizza with beef and three medium cheese pizza with italian sausage,ModifyOrder
+request seven large honolulu hawaiian pizza with bacon and salami and add chicken wings,ModifyOrder
+one medium pepperoni and one side of macaroni and cheese please,ModifyOrder
+one medium pepperoni replace the anchovies with olives,ModifyOrder
+order a chicken pizza,ModifyOrder
+that's great,Confirmation
+yes,Confirmation
+yes order it,Confirmation
+go head,Confirmation
+correct,Confirmation
+order four four cheese pizzas with extra cheese and a chicken pizza without chicken and with extra mushroom on half and a side of bread,ModifyOrder
+order one chicken pizza,ModifyOrder
+i would like to order a medium thin pepperoni pizza with extra italian sausage on half,ModifyOrder
+i would like to order a pepperoni pizza with extra olives on half and a side of bread,ModifyOrder
+i want two medium chicken pizzas with anchovies,ModifyOrder
+i want two pepperoni pizzas,ModifyOrder
+i would like a large vegetarian pizza half onions half peppers,ModifyOrder
+i want to order a hawaiian pizza,ModifyOrder
+i want to order a large clam pizza extra white sauce and a side order of garlic knots to go,ModifyOrder
+i want to order a large four cheese pizza with extra cheese and a chicken pizza without chicken,ModifyOrder
+i want to order a medium cheese pizza and a root beer,ModifyOrder
+i want to order a pizza with olives on one half and green peppers on the other half,ModifyOrder
+i want to order an icelandic pizza,ModifyOrder
+what can you do,None
+what is time now,None
+what is my name,None
+i want one large chicken pizza with extra peppers but hold the anchovies,ModifyOrder
+i want one large chicken ranch pizza with extra muhsroom but without ham and garlic knots on the side,ModifyOrder
+i want one large pepperoni pizza extra anchovies please,ModifyOrder
+i want one small hawaiian pizza with extra corn and pineapple and two medium plain pizzas without peppers and replace mushrooms with anchovies and an extra large happy pizza half olives half peppers,ModifyOrder
+i want six cheesy pizzas,ModifyOrder
+i want three cheese pizzas,ModifyOrder
+i want three cuban pizzas with bacon and mushrooms and fries on the side,ModifyOrder
+i want three large thin crust mexican pizzas without anchovies or pineapples and an extra large pepperoni pizza with extra cheese olives and with mushrooms on half,ModifyOrder
+i want four hawaiian pizzas but i do not want jalapenos on it,ModifyOrder
+i want four pepperoni pizzas with chicken,ModifyOrder
+i want one cheesy pizza large with italian sausage,ModifyOrder
+i want one extra large pepperoni pizza with anchovies ham and without olives and one large chicken pizza hold the peppers and a side order of garlic knots,ModifyOrder
+i want one extra large pepperoni pizza with extra ham remove the olives and chicken and two medium stuffed crust super supreme pizzas with anchovies but no cheese,ModifyOrder
+i want one large pizza with extra cheese,ModifyOrder
